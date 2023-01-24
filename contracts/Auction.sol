@@ -18,7 +18,6 @@ contract Auction {
     function calculateWinner() public {
         //TODO:
 
-
-        winningAddress = //TODO:
+        winningAddress = //TODO:;
     }
 }
